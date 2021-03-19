@@ -1,6 +1,6 @@
 {
   "name": "users",
-  "homepage": "https://github.com/Twmwayne/travis_employee_directory",
+  "homepage": "https://twmwayne.github.io/travis_employee_directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
