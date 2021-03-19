@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Twmwayne/travis_employee_directory/static/css/main.66e98012.chunk.css",
+    "main.js": "/Twmwayne/travis_employee_directory/static/js/main.cd247935.chunk.js",
+    "main.js.map": "/Twmwayne/travis_employee_directory/static/js/main.cd247935.chunk.js.map",
+    "runtime-main.js": "/Twmwayne/travis_employee_directory/static/js/runtime-main.094ec064.js",
+    "runtime-main.js.map": "/Twmwayne/travis_employee_directory/static/js/runtime-main.094ec064.js.map",
+    "static/css/2.a5f06b7f.chunk.css": "/Twmwayne/travis_employee_directory/static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.2a2dc6f6.chunk.js": "/Twmwayne/travis_employee_directory/static/js/2.2a2dc6f6.chunk.js",
+    "static/js/2.2a2dc6f6.chunk.js.map": "/Twmwayne/travis_employee_directory/static/js/2.2a2dc6f6.chunk.js.map",
+    "index.html": "/Twmwayne/travis_employee_directory/index.html",
+    "precache-manifest.aaf71baf74d443969ffd3576cf1a1a6c.js": "/Twmwayne/travis_employee_directory/precache-manifest.aaf71baf74d443969ffd3576cf1a1a6c.js",
+    "service-worker.js": "/Twmwayne/travis_employee_directory/service-worker.js",
+    "static/css/2.a5f06b7f.chunk.css.map": "/Twmwayne/travis_employee_directory/static/css/2.a5f06b7f.chunk.css.map",
+    "static/css/main.66e98012.chunk.css.map": "/Twmwayne/travis_employee_directory/static/css/main.66e98012.chunk.css.map",
+    "static/js/2.2a2dc6f6.chunk.js.LICENSE.txt": "/Twmwayne/travis_employee_directory/static/js/2.2a2dc6f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.094ec064.js",
+    "static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.2a2dc6f6.chunk.js",
+    "static/css/main.66e98012.chunk.css",
+    "static/js/main.cd247935.chunk.js"
+  ]
+}
